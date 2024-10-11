@@ -3,3 +3,4 @@ Solving some problems with systematic approach and efficiently.
 
 List of Problems I practiced here are:
 - Solving the Sudoku problem using backtracking
+- Solution of classic Tower of Hanoi problem
